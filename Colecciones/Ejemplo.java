@@ -1,6 +1,7 @@
-
-
 package Colecciones;
+
+
+
 
 import java.util.ArrayList;
    //adicionara de acuerdo al orden que se va colocando
